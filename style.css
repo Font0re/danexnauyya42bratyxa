@@ -1,0 +1,71 @@
+body {
+    font-family: sans-serif;
+    font-size:20px;
+}
+
+header {
+    background:lightgray;
+}
+
+header img{
+    padding:10px
+}
+
+h1{
+    text-align:center;
+    color:blue;
+    border: 3px solid orange;
+    border-radius:30px
+}
+
+footer p {
+    border: 3px solid lightgray;
+    border-radius: 10px;
+    padding:10px;
+}
+
+nav{
+    background-color:lightgreen;
+    padding:15px;
+    border: 3px solid red;
+    border-radius:15px;
+}
+
+nav a{
+    text-decoration:none;
+    color:black;
+}
+
+select{
+    padding:10px;
+    background-color:white;
+    color:royalblue;
+    border-radius:10px;
+    font-size:20px;
+    border:3px solid navy;
+}
+
+select option{
+    color:white;
+    background-color:navy;
+}
+.etavtoroi{
+    border: 3px solid blueviolet;
+    padding:20px;
+    border-radius:10px;
+}
+
+main{
+    margin:10px;
+}
+
+h2{
+    color:darkviolet;
+}
+
+.venomenalno{
+    border:2px solid black;
+    padding:5px;
+    border-radius:8px;
+    text-decoration:none;
+}
